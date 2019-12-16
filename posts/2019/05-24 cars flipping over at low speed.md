@@ -1,4 +1,3 @@
-Draft: No
 Permalink: /cars-flipping-over-at-low-speed
 Tags: 🎥
 

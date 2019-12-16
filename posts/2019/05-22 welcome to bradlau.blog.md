@@ -1,4 +1,3 @@
-Draft: No
 Permalink: /welcome-to-bradlau.blog
 Tags: 📄
 

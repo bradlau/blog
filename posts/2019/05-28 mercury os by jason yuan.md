@@ -5,7 +5,7 @@ Tags: 🔗
 
 [Mercury OS](https://www.mercuryos.com) is a beautifully executed  application of the design principles that [Jef Raskin](https://en.wikipedia.org/wiki/Jef_Raskin) wrote about 18 years ago in [*The Humane Interface*](https://en.wikipedia.org/wiki/The_Humane_Interface), including modelessness, monotony/habituation, universal undo, elimination of distractions, and an end to stand-alone applications.  
 
-![](/images/_mercury-os.gif) 
+![](/media/_mercury-os.gif) 
 
 [Jason Yuan](https://twitter.com/jasonyuandesign), the Santa Monica-based designer responsible for the project, has created a compelling vision for how one might accomplish modern computer-based tasks using a humane computing environment designed for tablet-computer hardware. 
 

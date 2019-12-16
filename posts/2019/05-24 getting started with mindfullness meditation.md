@@ -1,11 +1,10 @@
-Draft: No
 Permalink: /getting-started-with-mindfulness-meditation
 Tags: 📄
 
 # 🧘🏻‍♀️ Getting Started with Mindfulness Meditation
 
-{|<}Photo by [Taylor Leopold](https://unsplash.com/photos/COE-CIGj8VA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-![Mysterious Mist by Taylor Leopold](/images/_taylor-leopold-506-unsplash-edited.jpg) 
+{|<}Photo by [Taylor Leopold](https://unsplash.com/photos/COE-CIGj8VA)
+![Mysterious Mist by Taylor Leopold](/media/_taylor-leopold-506-unsplash-edited.jpg) 
 
 Interest in meditation has grown a lot since I originally wrote this introduction for [Quora](https://www.quora.com/How-do-I-learn-some-simple-practical-ways-of-doing-meditation/answer/Brad-Lauster) back in 2010. There are now thousands of books on various contemplative practices — enough to give anyone beginner's paralysis.
 

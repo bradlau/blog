@@ -5,5 +5,5 @@ Tags: 📷
 
 Thank you, espresso, for keeping me caffeinated today. ☕️
 
-![](/images/_espresso-cup-empty.jpg)
+![](/media/_espresso-cup-empty.jpg)
 

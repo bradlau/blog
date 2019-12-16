@@ -1,5 +1,4 @@
-Draft: No
-Permalink: /blog-post-template
+Permalink: /budnitz-3-pitch-black-edition
 Tags: 🔗
 
 # 🚲 Budnitz No.3 Pitch Black Edition
