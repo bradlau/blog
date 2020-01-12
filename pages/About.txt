@@ -15,8 +15,8 @@ Permalink: /about
 
 ✉️ I’d love to hear from you, so if you’re inclined, you can reach me on Twitter at [@bradlau](https://twitter.com/bradlau) or by emailing [yo.bradlau@icloud.com](mailto:yo.bradlau@icloud.com).
 
-### Colophon
+## Colophon
 
-💻 This site runs on [blot.im](https://blot.im) and I write the posts in [iA Writer](https://ia.net/writer).
+💻 This site runs on [blot.im](https://blot.im) and is mirrored on my [blog repository on GitHub](https://github.com/bradlau/blog). I write the posts in [iA Writer](https://ia.net/writer).
 
 📈 I also use [Simple Analytics](https://referral.simpleanalytics.com/brad-lauster) and share [those stats](https://simpleanalytics.io/bradlau.blog/) publicly.
