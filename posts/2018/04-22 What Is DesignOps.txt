@@ -1,0 +1,22 @@
+Permalink: /what-is-designops
+Tags: 📄
+
+# ❓ What is DesignOps?
+
+As businesses increasingly understand the value of design, and accordingly invest in larger design teams, it makes sense that they'll also invest in resources to make those teams productive and successful.
+
+DesignOps, short for Design Operations, is that resource, and in my experience, it makes sense to hire a DesignOps specialist when your team grows to about 20 people. At 50 or more designers, you'll probably need an entire team focused on DesignOps.
+
+In my last role, as Director of Product Design at Weight Watchers, a lot of what I did was basically DesignOps (even though we didn't call it that). Some of my work included:
+
+- Budgeting & resource allocation
+- Securing physical workspaces
+- Standardizing our toolset & securing licenses for those tools
+- Design Systems Management (pattern libraries & style guides)
+- The onboarding process for new team members
+- Design Team career path & performance review process
+- Design process transparency
+- Measurement frameworks for design work (measure against principles, user journeys, competition, etc.)
+- Evangelizing design & user advocacy across the company
+
+It's basically all the non-design work that supports the Product Design Team.

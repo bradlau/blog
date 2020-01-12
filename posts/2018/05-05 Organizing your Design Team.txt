@@ -1,0 +1,47 @@
+Permalink: /organizing-your-design-team
+Tags: 📄
+
+# 🎯 Organizing your Design Team
+
+As you may know, I recently left Weight Watchers, where I was the Director of Product Design. So before I forget about the incredible progress we made, I want to say a few words about the organizational changes we kicked off in the past year. 
+
+Weight Watchers is still in the middle of this transition, but our approach should inspire design leaders at companies who have their teams organized around platforms or products – especially if your business is a membership or subscription-based service. 
+
+First, some history. Despite the fact that Weight Watchers is a 50-year-old company, the Product organization is effectively only three years old. In 2015 (before I joined), faced with declining membership, some smart people at Weight Watchers correctly attributed a big chunk of this decline to Weight Watchers' abysmal digital tools. Indeed, in 2015, their apps and website needed a lot of help. 
+
+To solve this problem and get the company back on track, Weight Watchers acquired a few startups to infuse the company with the talent they needed to stand up a modern Product organization. 
+
+In the early days of this new group, Product Design was organized around platforms with separate workstreams for Android, iOS, and Web. That may have made sense in the early days when engineering resources were severely constrained, but we typically want our users to have the same experience across all platforms. From a user experience perspective, having separate teams for each platform is antithetical to that goal. 
+
+Fast-forward a couple of years, and while I was applying for my role at Weight Watchers, I wrote a letter to the VP of Product Design about the organizational changes I wanted to make if they brought me onboard.
+
+In that letter, I argued for three changes:
+
+1. The Product Design team should be organized around the stages of the member journey. In our case, there are four: pre-membership, onboarding, membership, and lapsed. [^1]
+
+2. Each team should have a diverse mix of designers. For example, the Membership Journey team would have the most team members and might include a Senior Product Designer, a Product Designer, a Design Researcher, a UX Engineer, an Architect, an Interior Designer and a Visual Designer. Other teams would likely have fewer team members and designers with different skill sets. [^2]
+
+3. In addition to the journey-based teams, there should also be a Core Design crew, tasked with supporting the efforts of the other teams, including being responsible for resources like the team's style guide and pattern library. In addition to Product Designers, this team might also include a Brand Designer, a UX Writer, a Research Coordinator, and others. [^3]
+
+![jouney-based-design-team](/media/_jouney-based-design-team.png)
+
+The result would be a Product Design team with only three points of member-facing coordination:
+* Pre-membership's handoff to Onboarding 
+* Onboarding's handoff to Membership 
+* Membership's handoff to Lapsed 
+
+Of course, there would also be coordination between the Core Design crew and the four journey-based teams, but that work needn't impact the user experience.
+
+Now that I've left Weight Watchers, I can't say whether they'll completely embrace this model, but we did move from platform-based teams to product-based teams and are currently operating with a mix of journey and product-based teams. (There's an Onboarding team, for example, but also a team focused solely on our community product, Connect.)
+
+If you have a similarly organized Design team, I'd love to talk with you about how it's going. You can reach me on Twitter: [@bradlau](https://twitter.com/bradlau)
+
+
+[^1]: This is similar to how WeWork organized its UX team (or at least how they were organized in 2016): [User Journey Teams at WeWork UX](https://www.youtube.com/watch?v=rn5J2XU-yBc)
+
+
+[^2]: Again, borrowed heavily from the WeWork model: [Roles in WeWork UX Journey Teams](https://www.youtube.com/watch?v=AGb9b_N2Mis)
+
+
+[^3]: This idea is discussed extensively in [Peter Merholz](https://peterme.com) and Kristin Skinner’s book, [Org Design for Design Orgs: Building and Managing In-House Design Teams](http://a.co/eX4SDZs) 
+
