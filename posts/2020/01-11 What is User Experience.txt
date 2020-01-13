@@ -25,6 +25,6 @@ The User Experience department has teams of people focused on:
 
 Further complicating the issue is that in mature companies, those teams of people are likely organized around different phases of the user journey, such as:
 
-> Pre-Membership → Onboarding → Membership → Evolving Use & Exit
+*Pre-Membership → Onboarding → Membership → Evolving Use & Exit*
 
 So, when you think of UX in your company, think of cross-functional teams of people, working to deliver the best possible experience for users, around a particular phase of their journey with the company’s products and services. 
