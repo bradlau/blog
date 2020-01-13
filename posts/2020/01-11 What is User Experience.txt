@@ -10,9 +10,13 @@ Let me start with a quote that gets to heart of why User Experience (UX) is diff
 Most organizations in modern companies are staffed with teams of people who do the thing described by the name of their organziation. 
 
 The Accounting department has teams of people who do accounting.
+
 The Design department has teams of people who do design. 
+
 The Engineering department has teams of people who do engineering. 
+
 The Marketing department has teams of people who do marketing. 
+
 …and so on. 
 
 The difference with UX is that the User Experience department is not a bunch of people who do UX. There is no such thing as a UX practitioner.
