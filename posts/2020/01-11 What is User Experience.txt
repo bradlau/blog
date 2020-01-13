@@ -3,19 +3,28 @@ Tags: 📄
 
 # ❓ What is User Experience?
 
-When I made my first career transition from programmer to designer in the late 1990’s, the term user experience was not 
+Let me start with a quote that gets to heart of why User Experience (UX) is difficult for many people to understand in a business context: 
 
-Over the years, I’ve held several different titles in many organizations in many different companies.  
+> “UX is an emergent outcome of cross-functional work. It is not what some department does.” —[Peter Merholz](https://www.peterme.com) 
 
-User Experience is a group on the org chart. Design is one of the teams in that group. Other teams in the user experience group include content, customer service, and experience research.
+Most organizations in modern companies are staffed with teams of people who do the thing described by the name of their organziation. 
 
-The User Experience team is responsible for the overall experience that the company’s users have with its products and services. 
+The Accounting department has teams of people who do accounting.
+The Design department has teams of people who do design. 
+The Engineering department has teams of people who do engineering. 
+The Marketing department has teams of people who do marketing. 
+…and so on. 
 
-That said, User Experience is not a role, it's an organization. 
+The difference with UX is that the User Experience department is not a bunch of people who do UX. There is no such thing as a UX practitioner.
 
-Therefore, we don't hire User Experience (UX) practitioners - there is no such thing. User Experience is made of teams focused on: 
+The User Experience department has teams of people focused on: 
 - Customer Service
 - Product & Service Design
 - Research & User Testing
 - UX Writing & Content Strategy
 
+Further complicating the issue is that in mature companies, those teams of people are likely organized around different phases of the user journey, such as:
+
+> Pre-Membership → Onboarding → Membership → Evolving Use & Exit
+
+So, when you think of UX in your company, think of cross-functional teams of people, working to deliver the best possible experience for users, around a particular phase of their journey with the company’s products and services. 
