@@ -1,0 +1,85 @@
+{
+  "name": "Console v02",
+  "locals": {
+    "page_size": "36",
+    "background_color": "rgba(255, 255, 255, 1.0)",
+    "body_text_color": "#222222",
+    "body_text_link_color": "blue"
+  },
+  "views": {
+    "archives.html": {
+      "url": "/archives",
+      "partials": {
+        "title": "Archives - {{{title}}}",
+        "description": "All the entries posted on {{{title}}}",
+        "head": null,
+        "header": null,
+        "footer": null
+      }
+    },
+    "style.css": {
+      "partials": {
+        "plugin": null
+      }
+    },
+    "search.html": {
+      "partials": {
+        "title": "Search - {{{title}}}",
+        "description": "Search all the entries posted on {{{title}}}",
+        "head": null,
+        "header": null,
+        "footer": null
+      }
+    },
+    "error.html": {
+      "partials": {
+        "title": "{{{error.title}}} - {{{title}}}",
+        "description": "Error on {{{title}}}",
+        "head": null,
+        "header": null,
+        "footer": null
+      }
+    },
+    "entry.html": {
+      "partials": {
+        "title": "{{{entry.title}}} - {{{title}}}",
+        "description": "{{{entry.summary}}}",
+        "head": null,
+        "header": null,
+        "pluginHTML": null,
+        "footer": null
+      }
+    },
+    "entries.html": {
+      "partials": {
+        "title": "{{{title}}}",
+        "description": "The latest entries posted on {{{title}}}",
+        "head": null,
+        "header": null,
+        "footer": null
+      }
+    },
+    "tagged.html": {
+      "partials": {
+        "title": "Entries tagged {{{tag}}} from {{{title}}}",
+        "description": "All of the entries posted on {{{title}}} tagged {{{tag}}}",
+        "head": null,
+        "header": null,
+        "footer": null
+      }
+    },
+    "head.html": {
+      "partials": {
+        "title": null,
+        "description": null
+      }
+    },
+    "public.html": {
+      "partials": {
+        "title": "Index of {{{path}}}",
+        "description": "All the files and folders inside {{{path}}}",
+        "head": null
+      }
+    }
+  }
+}
