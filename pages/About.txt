@@ -1,7 +1,7 @@
 Permalink: /about
 # About
 
-![](/media/_brad-lauster-square.jpg) 
+![](/media/_bl.2020.jpg) 
 
 👋🏻 Hello. I’m Brad Lauster and this is my blog.
 
